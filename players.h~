@@ -1,0 +1,16 @@
+#include <iostream>
+#include <string>
+#include "cards.h"
+using namespace std;
+
+class player
+{
+	public:
+		player();
+		~player();
+	private:
+		string name;
+		cards* hand[5];
+		float bet;
+		
+};

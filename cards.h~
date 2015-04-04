@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+using namespace std;
+class cards
+{
+	public:
+		cards();
+		~cards();
+	private:
+		string suit;
+		string rank;
+		string location;
+};

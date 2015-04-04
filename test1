@@ -1,0 +1,244 @@
+Script started on Wed 01 Apr 2015 04:07:55 PM PDT
+]0;reed@ubuntu: ~/Desktop/project8reed@ubuntu:~/Desktop/project8$ ./main
+Please enter the number of players (2-8)
+8
+Sucessfully unwrapped deck
+Sucessfully invited 8 players
+Please Choose a function
+1 - Shuffle cards
+2 - Deal the first hand
+3 - Print the unshuffled deck
+4 - Print the shuffled deck
+5 - Print discard pile
+6 - Print the stock pile
+7 - Print the player information
+8 - Quit
+1
+Please Choose a function
+1 - Shuffle cards
+2 - Deal the first hand
+3 - Print the unshuffled deck
+4 - Print the shuffled deck
+5 - Print discard pile
+6 - Print the stock pile
+7 - Print the player information
+8 - Quit
+2
+Please Choose a function
+1 - Shuffle cards
+2 - Deal the first hand
+3 - Print the unshuffled deck
+4 - Print the shuffled deck
+5 - Print discard pile
+6 - Print the stock pile
+7 - Print the player information
+8 - Quit
+3
+heart two unshuffled
+heart three unshuffled
+heart four unshuffled
+heart five unshuffled
+heart six unshuffled
+heart seven unshuffled
+heart eight unshuffled
+heart nine unshuffled
+heart ten unshuffled
+heart jack unshuffled
+heart queen unshuffled
+heart king unshuffled
+heart ace unshuffled
+club two unshuffled
+club three unshuffled
+club four unshuffled
+club five unshuffled
+club six unshuffled
+club seven unshuffled
+club eight unshuffled
+club nine unshuffled
+club ten unshuffled
+club jack unshuffled
+club queen unshuffled
+club king unshuffled
+club ace unshuffled
+spade two unshuffled
+spade three unshuffled
+spade four unshuffled
+spade five unshuffled
+spade six unshuffled
+spade seven unshuffled
+spade eight unshuffled
+spade nine unshuffled
+spade ten unshuffled
+spade jack unshuffled
+spade queen unshuffled
+spade king unshuffled
+spade ace unshuffled
+diamond two unshuffled
+diamond three unshuffled
+diamond four unshuffled
+diamond five unshuffled
+diamond six unshuffled
+diamond seven unshuffled
+diamond eight unshuffled
+diamond nine unshuffled
+diamond ten unshuffled
+diamond jack unshuffled
+diamond queen unshuffled
+diamond king unshuffled
+diamond ace unshuffled
+Please Choose a function
+1 - Shuffle cards
+2 - Deal the first hand
+3 - Print the unshuffled deck
+4 - Print the shuffled deck
+5 - Print discard pile
+6 - Print the stock pile
+7 - Print the player information
+8 - Quit
+4
+spade four Tim Cook
+club ace Steve Jobs
+club queen Steve Wozniack
+diamond six Jony Ive
+diamond ten Eddy Cue
+spade three Michael Scott
+heart ten Scott Forstall
+heart queen Mark Papermaster
+club two discard
+diamond nine Tim Cook
+club seven Steve Jobs
+club five Steve Wozniack
+diamond eight Jony Ive
+heart three Eddy Cue
+heart jack Michael Scott
+diamond four Scott Forstall
+spade ace Mark Papermaster
+club nine discard
+heart six Tim Cook
+diamond king Steve Jobs
+heart two Steve Wozniack
+spade queen Jony Ive
+spade jack Eddy Cue
+spade five Michael Scott
+heart king Scott Forstall
+club three Mark Papermaster
+club jack discard
+heart eight Tim Cook
+heart nine Steve Jobs
+diamond five Steve Wozniack
+diamond seven Jony Ive
+spade two Eddy Cue
+spade six Michael Scott
+club six Scott Forstall
+club ten Mark Papermaster
+heart five discard
+spade ten Tim Cook
+club four Steve Jobs
+diamond queen Steve Wozniack
+diamond ace Jony Ive
+club eight Eddy Cue
+diamond jack Michael Scott
+heart seven Scott Forstall
+heart ace Mark Papermaster
+spade eight discard
+club king stock
+spade king stock
+diamond three stock
+spade seven stock
+heart four stock
+diamond two stock
+spade nine stock
+Please Choose a function
+1 - Shuffle cards
+2 - Deal the first hand
+3 - Print the unshuffled deck
+4 - Print the shuffled deck
+5 - Print discard pile
+6 - Print the stock pile
+7 - Print the player information
+8 - Quit
+5
+discard club two
+discard club nine
+discard club jack
+discard heart five
+discard spade eight
+Please Choose a function
+1 - Shuffle cards
+2 - Deal the first hand
+3 - Print the unshuffled deck
+4 - Print the shuffled deck
+5 - Print discard pile
+6 - Print the stock pile
+7 - Print the player information
+8 - Quit
+6
+stock club king
+stock spade king
+stock diamond three
+stock spade seven
+stock heart four
+stock diamond two
+stock spade nine
+Please Choose a function
+1 - Shuffle cards
+2 - Deal the first hand
+3 - Print the unshuffled deck
+4 - Print the shuffled deck
+5 - Print discard pile
+6 - Print the stock pile
+7 - Print the player information
+8 - Quit
+7
+Tim Cook: spade four
+Tim Cook: diamond nine
+Tim Cook: heart six
+Tim Cook: heart eight
+Tim Cook: spade ten
+Steve Jobs: club ace
+Steve Jobs: club seven
+Steve Jobs: diamond king
+Steve Jobs: heart nine
+Steve Jobs: club four
+Steve Wozniack: club queen
+Steve Wozniack: club five
+Steve Wozniack: heart two
+Steve Wozniack: diamond five
+Steve Wozniack: diamond queen
+Jony Ive: diamond six
+Jony Ive: diamond eight
+Jony Ive: spade queen
+Jony Ive: diamond seven
+Jony Ive: diamond ace
+Eddy Cue: diamond ten
+Eddy Cue: heart three
+Eddy Cue: spade jack
+Eddy Cue: spade two
+Eddy Cue: club eight
+Michael Scott: spade three
+Michael Scott: heart jack
+Michael Scott: spade five
+Michael Scott: spade six
+Michael Scott: diamond jack
+Scott Forstall: heart ten
+Scott Forstall: diamond four
+Scott Forstall: heart king
+Scott Forstall: club six
+Scott Forstall: heart seven
+Mark Papermaster: heart queen
+Mark Papermaster: spade ace
+Mark Papermaster: club three
+Mark Papermaster: club ten
+Mark Papermaster: heart ace
+Please Choose a function
+1 - Shuffle cards
+2 - Deal the first hand
+3 - Print the unshuffled deck
+4 - Print the shuffled deck
+5 - Print discard pile
+6 - Print the stock pile
+7 - Print the player information
+8 - Quit
+8
+]0;reed@ubuntu: ~/Desktop/project8reed@ubuntu:~/Desktop/project8$ exit
+Script done on Wed 01 Apr 2015 04:08:33 PM PDT
